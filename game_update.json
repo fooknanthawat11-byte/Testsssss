@@ -1,43 +1,47 @@
 {
-  "game_update": {
-    "database_version": "2027.1.0",
-    "update_date": "2026-08-10",
-    "target_season": "2027",
-    "created_by": "AI Assistant"
-  },
-  "leagues": [
+  "PlayerData": [
+    { "ID": 1001, "Forename": "André", "Surname": "Onana", "ImageURL": "" },
+    { "ID": 1002, "Forename": "Senne", "Surname": "Lammens", "ImageURL": "" },
+    { "ID": 1003, "Forename": "Matthijs", "Surname": "de Ligt", "ImageURL": "" },
+    { "ID": 1004, "Forename": "Lisandro", "Surname": "Martínez", "ImageURL": "" },
+    { "ID": 1005, "Forename": "Leny", "Surname": "Yoro", "ImageURL": "" },
+    { "ID": 1006, "Forename": "Diogo", "Surname": "Dalot", "ImageURL": "" },
+    { "ID": 1007, "Forename": "Noussair", "Surname": "Mazraoui", "ImageURL": "" },
+    { "ID": 1008, "Forename": "Kobbie", "Surname": "Mainoo", "ImageURL": "" },
+    { "ID": 1009, "Forename": "Andrey", "Surname": "Santos", "ImageURL": "" },
+    { "ID": 1010, "Forename": "Bruno", "Surname": "Fernandes", "ImageURL": "" },
+    { "ID": 1011, "Forename": "Alejandro", "Surname": "Garnacho", "ImageURL": "" },
+    { "ID": 1012, "Forename": "Amad", "Surname": "Diallo", "ImageURL": "" },
+    { "ID": 1013, "Forename": "Rasmus", "Surname": "Højlund", "ImageURL": "" },
+    { "ID": 1014, "Forename": "Benjamin", "Surname": "Šeško", "ImageURL": "" },
+    { "ID": 1015, "Forename": "Joshua", "Surname": "Zirkzee", "ImageURL": "" }
+  ],
+  "ClubData": [
     {
-      "league_id": 1,
-      "name": "English Premier League",
-      "country": "England",
-      "clubs": [
-        {
-          "club_id": 101,
-          "name": "Manchester United",
-          "short_name": "MUN",
-          "reputation": 88,
-          "stadium": "Old Trafford",
-          "transfer_budget_euro": 150000000,
-          "wage_budget_weekly_euro": 3500000,
-          "squad": [
-            {"player_id": 1001, "name": "André Onana", "age": 31, "position": "GK", "nationality": "Cameroon", "ability": 84, "potential": 85, "weekly_wage_euro": 120000},
-            {"player_id": 1002, "name": "Senne Lammens", "age": 24, "position": "GK", "nationality": "Belgium", "ability": 76, "potential": 82, "weekly_wage_euro": 65000},
-            {"player_id": 1003, "name": "Matthijs de Ligt", "age": 27, "position": "DC", "nationality": "Netherlands", "ability": 86, "potential": 89, "weekly_wage_euro": 200000},
-            {"player_id": 1004, "name": "Lisandro Martínez", "age": 29, "position": "DC", "nationality": "Argentina", "ability": 85, "potential": 87, "weekly_wage_euro": 150000},
-            {"player_id": 1005, "name": "Leny Yoro", "age": 21, "position": "DC", "nationality": "France", "ability": 81, "potential": 93, "weekly_wage_euro": 100000},
-            {"player_id": 1006, "name": "Diogo Dalot", "age": 28, "position": "DR", "nationality": "Portugal", "ability": 83, "potential": 85, "weekly_wage_euro": 110000},
-            {"player_id": 1007, "name": "Noussair Mazraoui", "age": 29, "position": "DL", "nationality": "Morocco", "ability": 82, "potential": 83, "weekly_wage_euro": 100000},
-            {"player_id": 1008, "name": "Kobbie Mainoo", "age": 22, "position": "MC", "nationality": "England", "ability": 84, "potential": 94, "weekly_wage_euro": 130000},
-            {"player_id": 1009, "name": "Andrey Santos", "age": 23, "position": "MC", "nationality": "Brazil", "ability": 79, "potential": 88, "weekly_wage_euro": 140000},
-            {"player_id": 1010, "name": "Bruno Fernandes", "age": 32, "position": "AMC", "nationality": "Portugal", "ability": 88, "potential": 88, "weekly_wage_euro": 240000},
-            {"player_id": 1011, "name": "Alejandro Garnacho", "age": 23, "position": "AMR", "nationality": "Argentina", "ability": 84, "potential": 92, "weekly_wage_euro": 120000},
-            {"player_id": 1012, "name": "Amad Diallo", "age": 25, "position": "AMR", "nationality": "Ivory Coast", "ability": 81, "potential": 86, "weekly_wage_euro": 90000},
-            {"player_id": 1013, "name": "Rasmus Højlund", "age": 24, "position": "ST", "nationality": "Denmark", "ability": 83, "potential": 90, "weekly_wage_euro": 150000},
-            {"player_id": 1014, "name": "Benjamin Šeško", "age": 24, "position": "ST", "nationality": "Slovenia", "ability": 84, "potential": 91, "weekly_wage_euro": 210000},
-            {"player_id": 1015, "name": "Joshua Zirkzee", "age": 26, "position": "ST", "nationality": "Netherlands", "ability": 82, "potential": 87, "weekly_wage_euro": 110000}
-          ]
-        }
-      ]
+      "ID": 101,
+      "Name": "Manchester United",
+      "ShortName": "MUN",
+      "ImageURL": ""
+    }
+  ],
+  "LeagueData": [
+    {
+      "ID": 28,
+      "Name": "English Premier League",
+      "ImageURL": ""
+    }
+  ],
+  "CupData": [
+    {
+      "ID": 2,
+      "Name": "FA Cup",
+      "ImageURL": ""
+    }
+  ],
+  "StadiumData": [
+    {
+      "ID": 1,
+      "Name": "Old Trafford"
     }
   ]
 }
