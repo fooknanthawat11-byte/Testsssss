@@ -14,34 +14,69 @@
     { "ID": 1012, "Forename": "Amad", "Surname": "Diallo", "ImageURL": "" },
     { "ID": 1013, "Forename": "Rasmus", "Surname": "Højlund", "ImageURL": "" },
     { "ID": 1014, "Forename": "Benjamin", "Surname": "Šeško", "ImageURL": "" },
-    { "ID": 1015, "Forename": "Joshua", "Surname": "Zirkzee", "ImageURL": "" }
+    { "ID": 1015, "Forename": "Joshua", "Surname": "Zirkzee", "ImageURL": "" },
+    { "ID": 2001, "Forename": "Erling", "Surname": "Haaland", "ImageURL": "" },
+    { "ID": 2002, "Forename": "Kevin", "Surname": "De Bruyne", "ImageURL": "" },
+    { "ID": 2003, "Forename": "Phil", "Surname": "Foden", "ImageURL": "" },
+    { "ID": 3001, "Forename": "Bukayo", "Surname": "Saka", "ImageURL": "" },
+    { "ID": 3002, "Forename": "Martin", "Surname": "Ødegaard", "ImageURL": "" },
+    { "ID": 4001, "Forename": "Mohamed", "Surname": "Salah", "ImageURL": "" },
+    { "ID": 4002, "Forename": "Virgil", "Surname": "van Dijk", "ImageURL": "" },
+    { "ID": 5001, "Forename": "Cole", "Surname": "Palmer", "ImageURL": "" },
+    { "ID": 6001, "Forename": "Heung-min", "Surname": "Son", "ImageURL": "" },
+    { "ID": 7001, "Forename": "Alexander", "Surname": "Isak", "ImageURL": "" },
+    { "ID": 8001, "Forename": "Ollie", "Surname": "Watkins", "ImageURL": "" },
+    { "ID": 9001, "Forename": "Jarrod", "Surname": "Bowen", "ImageURL": "" }
   ],
   "ClubData": [
-    {
-      "ID": 101,
-      "Name": "Manchester United",
-      "ShortName": "MUN",
-      "ImageURL": ""
-    }
+    { "ID": 101, "Name": "Manchester United", "ShortName": "MUN", "ImageURL": "" },
+    { "ID": 102, "Name": "Manchester City", "ShortName": "MCI", "ImageURL": "" },
+    { "ID": 103, "Name": "Arsenal", "ShortName": "ARS", "ImageURL": "" },
+    { "ID": 104, "Name": "Liverpool", "ShortName": "LIV", "ImageURL": "" },
+    { "ID": 105, "Name": "Chelsea", "ShortName": "CHE", "ImageURL": "" },
+    { "ID": 106, "Name": "Tottenham Hotspur", "ShortName": "TOT", "ImageURL": "" },
+    { "ID": 107, "Name": "Newcastle United", "ShortName": "NEW", "ImageURL": "" },
+    { "ID": 108, "Name": "Aston Villa", "ShortName": "AVL", "ImageURL": "" },
+    { "ID": 109, "Name": "West Ham United", "ShortName": "WHU", "ImageURL": "" },
+    { "ID": 110, "Name": "Brighton & Hove Albion", "ShortName": "BHA", "ImageURL": "" },
+    { "ID": 111, "Name": "Everton", "ShortName": "EVE", "ImageURL": "" },
+    { "ID": 112, "Name": "Crystal Palace", "ShortName": "CRY", "ImageURL": "" },
+    { "ID": 113, "Name": "Fulham", "ShortName": "FUL", "ImageURL": "" },
+    { "ID": 114, "Name": "Bournemouth", "ShortName": "BOU", "ImageURL": "" },
+    { "ID": 115, "Name": "Wolverhampton Wanderers", "ShortName": "WOL", "ImageURL": "" },
+    { "ID": 116, "Name": "Brentford", "ShortName": "BRE", "ImageURL": "" },
+    { "ID": 117, "Name": "Nottingham Forest", "ShortName": "NFO", "ImageURL": "" },
+    { "ID": 118, "Name": "Leicester City", "ShortName": "LEI", "ImageURL": "" },
+    { "ID": 119, "Name": "Southampton", "ShortName": "SOU", "ImageURL": "" },
+    { "ID": 120, "Name": "Ipswich Town", "ShortName": "IPS", "ImageURL": "" }
   ],
   "LeagueData": [
-    {
-      "ID": 28,
-      "Name": "English Premier League",
-      "ImageURL": ""
-    }
+    { "ID": 28, "Name": "English Premier League", "ImageURL": "" }
   ],
   "CupData": [
-    {
-      "ID": 2,
-      "Name": "FA Cup",
-      "ImageURL": ""
-    }
+    { "ID": 2, "Name": "FA Cup", "ImageURL": "" },
+    { "ID": 3, "Name": "EFL Cup", "ImageURL": "" }
   ],
   "StadiumData": [
-    {
-      "ID": 1,
-      "Name": "Old Trafford"
-    }
+    { "ID": 1, "Name": "Old Trafford" },
+    { "ID": 2, "Name": "Etihad Stadium" },
+    { "ID": 3, "Name": "Emirates Stadium" },
+    { "ID": 4, "Name": "Anfield" },
+    { "ID": 5, "Name": "Stamford Bridge" },
+    { "ID": 6, "Name": "Tottenham Hotspur Stadium" },
+    { "ID": 7, "Name": "St James' Park" },
+    { "ID": 8, "Name": "Villa Park" },
+    { "ID": 9, "Name": "London Stadium" },
+    { "ID": 10, "Name": "Amex Stadium" },
+    { "ID": 11, "Name": "Goodison Park" },
+    { "ID": 12, "Name": "Selhurst Park" },
+    { "ID": 13, "Name": "Craven Cottage" },
+    { "ID": 14, "Name": "Vitality Stadium" },
+    { "ID": 15, "Name": "Molineux Stadium" },
+    { "ID": 16, "Name": "Gtech Community Stadium" },
+    { "ID": 17, "Name": "The City Ground" },
+    { "ID": 18, "Name": "King Power Stadium" },
+    { "ID": 19, "Name": "St Mary's Stadium" },
+    { "ID": 20, "Name": "Portman Road" }
   ]
 }
