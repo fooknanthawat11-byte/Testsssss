@@ -50,12 +50,13 @@
 		{ "ID": 142, "Name": "Portsmouth", "ShortName": "POR", "ImageURL": "" },
 		{ "ID": 143, "Name": "Derby County", "ShortName": "DER", "ImageURL": "" },
 		{ "ID": 300, "Name": "MyClub", "ShortName": "MCL", "DisplayName": "MyClub", "LeagueID": 29, "ImageURL": "" },
-		{ "ID": 400, "Name": "MyLowerClub", "ShortName": "MLC", "DisplayName": "MyLowerClub", "LeagueID": 31, "ImageURL": "" }
+		{ "ID": 400, "Name": "MyLowerClub", "ShortName": "MLC", "DisplayName": "MyLowerClub", "LeagueID": 32, "ImageURL": "" }
 	],
 	"LeagueData": [
 		{ "ID": 29, "Name": "English EFL Championship", "ImageURL": "" },
 		{ "ID": 30, "Name": "UEFA Champions League", "Country": "Europe", "ImageURL": "" },
-		{ "ID": 31, "Name": "English Lower League", "Country": "England", "ImageURL": "" }
+		{ "ID": 31, "Name": "English Lower League", "Country": "England", "ImageURL": "" },
+		{ "ID": 32, "Name": "English Lower League 2", "Country": "England", "ImageURL": "" }
 	],
 	"CupData": [
 		{ "ID": 2, "Name": "FA Cup", "ImageURL": "" },
